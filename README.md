@@ -27,7 +27,7 @@ To view the details of each project, simply click on the project name in the tab
 
 | Project Name                 | Description | Tools & Testing Used |
 |------------------------------|-------------|----------------------|
-| Project 1- Ecom OpenCart      | Tested a Open Source E-Commerce Web application for functionality and usability. |Functional Testing,GUI Testing,Bug Report,Smoke Testing,Re-Testing,Regression Testing,JIRA,Zephyr Scale Test Management|
+| Project 1- Ecom OpenCart      | Tested an Open Source E-Commerce Web application for functionality and usability. |Functional Testing,GUI Testing,Bug Report,Smoke Testing,Re-Testing,Regression Testing,JIRA,Zephyr Scale Test Management|
 
 ### Project 1- Ecom OpenCart Front End
 - Test Scenarios_Open Cart 
